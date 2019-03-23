@@ -1,0 +1,3 @@
+﻿  Admin.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Library.vcxproj -> C:\Users\Paweł\Desktop\JPWP-20190323T111615Z-001\JPWP\Library\Debug\Library.exe
